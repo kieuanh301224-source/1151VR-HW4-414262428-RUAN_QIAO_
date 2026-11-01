@@ -2,7 +2,7 @@
 1.專案載圖： <img width="485" height="261" alt="Ảnh chụp màn hình 2026-11-02 003311" src="https://github.com/user-attachments/assets/315dc69f-57b3-4fa9-8350-c605ec6ee88c" />
 
 
-2.GitHub連接：https://github.com/kieuanh301224-source/1151VR-HW2-414262428-RUAN-QIAO-YING
+2.GitHub連接：https://github.com/kieuanh301224-source/1151VR-HW4-414262428-RUAN_QIAO_/tree/main
 
 3.YouTube連接：https://youtu.be/DV2b0xsleys?si=FWOBtTRiiLzqdM75
 
